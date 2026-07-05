@@ -1,17 +1,20 @@
-# 🦖 **Dino Game (Chrome Dinosaur Clone)**
+# **Dino Game (Chrome Dinosaur Clone)**
 
 Una réplica del icónico juego del dinosaurio de Google Chrome, creado en **Python** con **Pygame**. ¡Salta y agáchate para esquivar obstáculos y alcanzar la puntuación más alta!
 
-## 🎮 **¿Cómo jugar?**
+---
 
-1. Asegúrate de tener **Python 3.11+** instalado.
-2. Instala la librería necesaria:
+## ◇ **¿Cómo jugar?**
+
+◆ Asegúrate de tener **Python 3.11+** instalado.  
+◆ Instala la librería necesaria:  
 
    ```bash
    pip install pygame
    ```
-3. Clona este repositorio y entra en la carpeta del proyecto.
-4. Ejecuta el juego:
+
+◆ Clona este repositorio y entra en la carpeta del proyecto.  
+◆ Ejecuta el juego:  
 
    ```bash
    python dino_game.py
@@ -19,32 +22,32 @@ Una réplica del icónico juego del dinosaurio de Google Chrome, creado en **Pyt
 
 ---
 
-## 🧠 **Mecánicas del juego**
+## ◇ **Mecánicas del juego**
 
-* Velocidad progresiva conforme aumenta el puntaje.
-* Obstáculos aleatorios:
-  * 🌵 Cactus pequeños y grandes
-  * 🐦 Pterodáctilos a distintas alturas
-* Sistema de puntuación y **high score**.
-* Sonidos de salto y colisión.
-* Animaciones para correr, saltar, agacharse y morir.
+◆ Velocidad progresiva conforme aumenta el puntaje.  
+◆ Obstáculos aleatorios.  
+◆ Sistema de puntuación y **high score**.  
+◆ Sonidos de salto y colisión.  
+◆ Animaciones para correr, saltar, agacharse y morir.  
 
 ---
 
-## 🛠️ **Tecnologías utilizadas**
+## ◇ **Tecnologías utilizadas**
 
-* 🐍 **Python**
-* 🎮 **Pygame**
+◆ **Python**  
+◆ **Pygame**  
 
 ---
 
-## 📸 **Capturas de pantalla**
+## ◇ **Capturas de pantalla**
 
 ![](https://github.com/JDavidex/Dino-Game-Chrome-Dinosaur-Clone/blob/main/(1).png)
 ![](https://github.com/JDavidex/Dino-Game-Chrome-Dinosaur-Clone/blob/main/(2).png)
 ![](https://github.com/JDavidex/Dino-Game-Chrome-Dinosaur-Clone/blob/main/(3).png)
 
-## 📜 **Créditos**
+---
+
+## ◇ **Créditos**
 
 Proyecto desarrollado con fines educativos y de aprendizaje.  
 Inspirado en el [juego del dinosaurio de Google Chrome](https://en.wikipedia.org/wiki/Dinosaur_Game), que aparece cuando no hay conexión a internet.
